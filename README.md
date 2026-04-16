@@ -1,4 +1,3 @@
-# z
 # Digit Recognition Project
 
 ## Overview
